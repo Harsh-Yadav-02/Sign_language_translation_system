@@ -1,5 +1,5 @@
 # Sign_language_translation_system
-Research Project
+
 In the process of developing an innovative AI system focused on bridging the communication gap between individuals with hearing
 impairments and the hearing community. This project entails the utilization of computer vision and deep
 learning to accurately interpret and translate sign language gestures into english text. Future plans include the
