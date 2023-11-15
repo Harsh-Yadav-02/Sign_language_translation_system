@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iloveyou</folder>
+	<filename>iloveyou.6e31c598-8029-11ee-8a4b-b7ad0bcf799b.jpg</filename>
+	<path>C:\Users\anika\OneDrive\Desktop\Sign_Lang_detect\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\iloveyou\iloveyou.6e31c598-8029-11ee-8a4b-b7ad0bcf799b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iloveyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>131</ymin>
+			<xmax>554</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>
